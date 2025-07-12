@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countryList>
+    <country>
+        <code>IN</code>
+        <name>India</name>
+    </country>
+    <country>
+        <code>US</code>
+        <name>United States</name>
+    </country>
+    <country>
+        <code>FR</code>
+        <name>France</name>
+    </country>
+    <!-- Add more countries as needed -->
+</countryList>
